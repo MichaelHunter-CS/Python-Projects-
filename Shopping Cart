@@ -8,6 +8,8 @@ Operating System: Windows 10
 Program Description: This program is designed for the purpose of a virtual store, where the user can basically buy any item that is available in the world. Its based around the current situation in the world where stores operate through a click and collect or delivery.
                      The user first enters their details along with the date and the everyday question of if they have covid symptoms before even starting their shop. Here at Active Hunter we have weekly items for both the bargain hunters out there and we sell exclusive
                      items to those with our loyalty cards. Loyalty card holders also can receive 10 % off at the checkout. We at Active Hunter also accept multiple currencies due to our stores being across Europe, America and Australia.
+
+Additionals files: items_available and items_available2
 """
 # Declaring the class ItemToPurchase so that the user can manually add their items
 class ItemToPurchase:
